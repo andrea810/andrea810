@@ -13,10 +13,8 @@ Atualmente curso **Ciência da Computação** (Faculdade Gran) e me especializo 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -24,7 +22,7 @@ Atualmente curso **Ciência da Computação** (Faculdade Gran) e me especializo 
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
 **Back-End:** Java, Spring Boot, Spring Web MVC, Spring Data JPA, APIs REST, POO, Clean Code
-**Front-End (básico):** JavaScript, Node.js, Thymeleaf, Bootstrap, HTML, CSS
+**Front-End (básico):** JavaScript, Node.js, Bootstrap, HTML, CSS
 **Banco de dados:** SQL, H2 Database (conhecimentos em MySQL e PostgreSQL)
 **Ferramentas:** Maven, JUnit 5, Git, GitHub, Linux
 **Cloud:** AWS (Certified Cloud Practitioner – CLF-C02), CloudFormation, Step Functions
