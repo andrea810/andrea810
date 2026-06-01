@@ -56,17 +56,9 @@ Relatório técnico sobre orquestração de fluxos serverless com AWS Step Funct
 
 ---
 
-### 📈 GitHub Stats
-
-![Estatísticas do GitHub da Andrea](https://github-readme-stats.vercel.app/api?username=andrea810&show_icons=true&theme=default&hide_border=true)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=andrea810&layout=compact&theme=default&hide_border=true)
-
----
-
 ### 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreasilva-9270b7276)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreapereiradasilva27@gmail.com)
+
 
 > 💡 Aberta a oportunidades remotas, híbridas ou presenciais. Motivada a aprender e crescer junto com a equipe.
