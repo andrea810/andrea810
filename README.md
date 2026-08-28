@@ -37,10 +37,6 @@ Aplicação em Java com interface gráfica JavaFX para criar contas, realizar de
 Aplicação full-stack para criar e gerenciar listas de compras: adicionar itens, organizar por categoria, definir quantidades, marcar como comprados, exportar em PDF e gerar versão otimizada para impressão.
 `Java 17` · `Spring Boot 3` · `Spring Web MVC` · `Spring Data JPA` · `Thymeleaf` · `Bootstrap` · `H2 Database` · `Maven`
 
-**💰 juros.online** — Aplicação financeira (em produção)
-Aplicação web de minha autoria para cálculo de juros simples e compostos, com calculadora interativa, desenvolvida com foco em clean code e boa experiência de uso. Hospedada na Vercel.
-`JavaScript` · `Node.js` · `Vercel`
-
 **☁️ [Templates-CloudFormation](https://github.com/andrea810/Templates-CloudFormation)** — Infraestrutura como Código
 Templates de provisionamento de recursos na AWS usando AWS CloudFormation (IaC).
 `AWS` · `CloudFormation` · `IaC`
